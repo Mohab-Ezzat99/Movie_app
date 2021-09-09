@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Movie app</string>
+    <string name="txt_movie_streaming_appp">Movie streaming appp</string>
+    <string name="tab_home">Home</string>
+    <string name="tab_tv_shows">TV Shows</string>
+    <string name="tab_movies">Movies</string>
+    <string name="tab_kids">Kids</string>
+    <string name="txt_movies">Movies</string>
+    <string name="txt_by_mohab_ezzat">By Mohab Ezzat</string>
+    <string name="txt_its_is_a_test_amp_banners_can_be_used_for_posters_or_anything_such_latest_events_etc"><![CDATA[Its is a test & banners can be used for posters or anything such latest events..etc]]></string>
+    <string name="txt_by">By</string>
+    <string name="txt_mohab_ezzat">Mohab Ezzat</string>
+</resources>
