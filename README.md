@@ -3,23 +3,23 @@ Display movies by API
 
 # Tools
 
-View binding
-
-Material design
+Java, MVVM & Material design
 
 Intuit library for supporting multi-screens
 
-MVVM
-
-REST API (Retrofit2)
-
-RXJava
-
 ExoPlayer
+
+Android Jetpack (LiveData, ViewModel & DataBinding)
+ 
+3rd Party Libraries (Retrofit “REST API” , Glide & RXJava)
 
 # APK
 
 https://drive.google.com/file/d/1v05-poAdD3jXbKAoXcet2PV8awN5jJOV/view?usp=sharing
+
+# YouTube
+
+https://www.youtube.com/watch?v=e6qMfkXjCDw
 
 # Screenshots
 
