@@ -3,7 +3,7 @@ Display movies by API
 
 # Tools
 
-Java, MVVM & Material design
+Java & Material design
 
 Intuit library for supporting multi-screens
 
